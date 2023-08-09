@@ -45,5 +45,4 @@ function PhotoGallery() {
         </div>
     );
 }
-
 export default PhotoGallery;
